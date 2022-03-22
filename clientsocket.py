@@ -14,7 +14,6 @@ sender = "1234"
 receiver = "5678"
 amount = input()  # str type
 nonce = str(uuid.uuid4())
-
 message = sender + receiver + amount + nonce
 hashed_message = hashfunction.hash_msg(message)
 
@@ -33,4 +32,6 @@ serialized = json.dumps(mydict)
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     s.connect((HOST, PORT))
     s.sendall(bytes(serialized, "utf-8"))
+    data = s.recv(1024)
+    print(data)
 
