@@ -1,0 +1,131 @@
+INFO 2022-03-22 11:56:28,245 - PROGRAM STARTED
+INFO 2022-03-22 11:56:28,245 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 11:56:28,249 - Established connection to main database
+INFO 2022-03-22 11:57:19,429 - PROGRAM STARTED
+INFO 2022-03-22 11:57:19,429 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 11:57:19,430 - Established connection to main database
+INFO 2022-03-22 11:59:38,860 - PROGRAM STARTED
+INFO 2022-03-22 11:59:38,860 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 11:59:38,861 - Established connection to main database
+INFO 2022-03-22 12:09:21,737 - PROGRAM STARTED
+INFO 2022-03-22 12:09:21,737 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 12:09:21,738 - Established connection to main database
+INFO 2022-03-22 12:20:30,628 - PROGRAM STARTED
+INFO 2022-03-22 12:20:30,628 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 12:20:30,629 - Established connection to main database
+INFO 2022-03-22 12:21:07,094 - PROGRAM STARTED
+INFO 2022-03-22 12:21:07,095 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 12:21:07,097 - Established connection to main database
+INFO 2022-03-22 13:45:51,439 - PROGRAM STARTED
+WARNING 2022-03-22 13:45:51,440 - No database found in program root dir. An empty database will be created.
+WARNING 2022-03-22 13:45:51,440 - This may pose a security threat for incoming messages!
+INFO 2022-03-22 13:45:51,445 - Established connection to main database
+INFO 2022-03-22 13:46:57,621 - PROGRAM STARTED
+INFO 2022-03-22 13:46:57,621 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 13:46:57,623 - Established connection to main database
+INFO 2022-03-22 13:46:59,601 - Estabilished a connection with client on address: ('127.0.0.1', 58027)
+INFO 2022-03-22 15:27:51,971 - PROGRAM STARTED
+INFO 2022-03-22 15:27:51,972 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 15:27:51,974 - Established connection to main database
+INFO 2022-03-22 15:27:58,990 - Estabilished a connection with client on address: ('25.35.0.145', 62084)
+INFO 2022-03-22 15:53:22,329 - PROGRAM STARTED
+INFO 2022-03-22 15:53:22,330 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 15:53:22,331 - Established connection to main database
+INFO 2022-03-22 16:03:33,242 - Estabilished a connection with client on address: ('25.35.0.145', 61321)
+INFO 2022-03-22 16:03:33,242 - Received data, processing message
+INFO 2022-03-22 16:05:45,839 - PROGRAM STARTED
+INFO 2022-03-22 16:05:45,840 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 16:05:45,841 - Established connection to main database
+INFO 2022-03-22 16:05:57,269 - Estabilished a connection with client on address: ('25.35.0.145', 61334)
+INFO 2022-03-22 16:05:57,269 - Received data, processing message
+INFO 2022-03-22 16:05:57,270 - Requested the transfer of: 22€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-22 16:05:57,270 - Checking the autheticity of the message
+INFO 2022-03-22 16:07:12,693 - PROGRAM STARTED
+INFO 2022-03-22 16:07:12,693 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 16:07:12,694 - Established connection to main database
+INFO 2022-03-22 16:07:17,906 - Estabilished a connection with client on address: ('25.35.0.145', 61336)
+INFO 2022-03-22 16:07:17,906 - Received data, processing message
+INFO 2022-03-22 16:07:17,906 - Requested the transfer of: 22€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-22 16:07:17,907 - Checking the autheticity of the message
+ERROR 2022-03-22 16:07:17,908 - Can't register nonce to database. Error: Incorrect number of bindings supplied. The current statement uses 1, and there are 36 supplied.
+INFO 2022-03-22 16:07:17,909 - Message authenticity verified. The operation will be authorized
+INFO 2022-03-22 16:09:11,311 - PROGRAM STARTED
+WARNING 2022-03-22 16:09:11,312 - No database found in program root dir. An empty database will be created.
+WARNING 2022-03-22 16:09:11,312 - This may pose a security threat for incoming messages!
+INFO 2022-03-22 16:09:11,315 - Established connection to main database
+INFO 2022-03-22 16:09:17,810 - Estabilished a connection with client on address: ('25.35.0.145', 61338)
+INFO 2022-03-22 16:10:04,642 - PROGRAM STARTED
+INFO 2022-03-22 16:10:04,642 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 16:10:04,643 - Established connection to main database
+INFO 2022-03-22 16:10:12,438 - Estabilished a connection with client on address: ('25.35.0.145', 61340)
+INFO 2022-03-22 16:10:12,438 - Received data, processing message
+INFO 2022-03-22 16:10:12,439 - Requested the transfer of: 22€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-22 16:10:12,439 - Checking the autheticity of the message
+ERROR 2022-03-22 16:10:12,440 - Can't register nonce to database. Error: Incorrect number of bindings supplied. The current statement uses 1, and there are 36 supplied.
+INFO 2022-03-22 16:10:12,440 - Message authenticity verified. The operation will be authorized
+INFO 2022-03-22 16:12:50,795 - PROGRAM STARTED
+WARNING 2022-03-22 16:12:50,795 - No database found in program root dir. An empty database will be created.
+WARNING 2022-03-22 16:12:50,796 - This may pose a security threat for incoming messages!
+INFO 2022-03-22 16:12:50,799 - Established connection to main database
+INFO 2022-03-22 16:12:56,107 - Estabilished a connection with client on address: ('25.35.0.145', 61345)
+INFO 2022-03-22 16:12:56,107 - Received data, processing message
+INFO 2022-03-22 16:12:56,107 - Requested the transfer of: 22€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-22 16:12:56,107 - Checking the autheticity of the message
+ERROR 2022-03-22 16:12:56,108 - Can't register nonce to database. Error: Incorrect number of bindings supplied. The current statement uses 1, and there are 36 supplied.
+INFO 2022-03-22 16:12:56,108 - Message authenticity verified. The operation will be authorized
+INFO 2022-03-22 16:15:01,696 - PROGRAM STARTED
+WARNING 2022-03-22 16:15:01,697 - No database found in program root dir. An empty database will be created.
+WARNING 2022-03-22 16:15:01,697 - This may pose a security threat for incoming messages!
+INFO 2022-03-22 16:15:01,699 - Established connection to main database
+INFO 2022-03-22 16:15:08,432 - Estabilished a connection with client on address: ('25.35.0.145', 61351)
+INFO 2022-03-22 16:15:08,433 - Received data, processing message
+INFO 2022-03-22 16:15:08,433 - Requested the transfer of: 22€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-22 16:15:08,433 - Checking the autheticity of the message
+INFO 2022-03-22 16:15:08,436 - Registered new nonce into database.
+INFO 2022-03-22 16:15:08,437 - Message authenticity verified. The operation will be authorized
+INFO 2022-03-22 16:16:17,910 - PROGRAM STARTED
+INFO 2022-03-22 16:16:17,910 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 16:16:17,912 - Established connection to main database
+INFO 2022-03-22 16:16:23,370 - Estabilished a connection with client on address: ('25.35.0.145', 61353)
+INFO 2022-03-22 16:16:23,371 - Received data, processing message
+INFO 2022-03-22 16:16:23,371 - Requested the transfer of: 11€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-22 16:16:23,371 - Checking the autheticity of the message
+INFO 2022-03-22 16:16:23,376 - Registered new nonce into database.
+INFO 2022-03-22 16:16:23,376 - Message authenticity verified. The operation will be authorized
+INFO 2022-03-22 16:17:34,971 - PROGRAM STARTED
+INFO 2022-03-22 16:17:34,971 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 16:17:34,972 - Established connection to main database
+INFO 2022-03-22 16:17:40,635 - Estabilished a connection with client on address: ('25.35.0.145', 61354)
+INFO 2022-03-22 16:17:40,635 - Received data, processing message
+INFO 2022-03-22 16:17:40,636 - Requested the transfer of: 22€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-22 16:17:40,636 - Checking the autheticity of the message
+INFO 2022-03-22 16:17:40,640 - Registered new nonce into database.
+INFO 2022-03-22 16:17:40,640 - Message authenticity verified. The operation will be authorized
+INFO 2022-03-22 16:18:20,673 - PROGRAM STARTED
+INFO 2022-03-22 16:18:20,673 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 16:18:20,674 - Established connection to main database
+INFO 2022-03-22 16:18:27,376 - Estabilished a connection with client on address: ('25.35.0.145', 61358)
+INFO 2022-03-22 16:18:27,376 - Received data, processing message
+INFO 2022-03-22 16:18:27,377 - Requested the transfer of: 33€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-22 16:18:27,377 - Checking the autheticity of the message
+INFO 2022-03-22 16:18:27,380 - Registered new nonce into database.
+INFO 2022-03-22 16:18:27,384 - Message authenticity verified. The operation will be authorized
+INFO 2022-03-22 16:21:32,970 - PROGRAM STARTED
+INFO 2022-03-22 16:21:32,970 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 16:21:32,974 - Established connection to main database
+INFO 2022-03-22 16:21:59,028 - Estabilished a connection with client on address: ('25.35.0.145', 61367)
+INFO 2022-03-22 16:21:59,028 - Received data, processing message
+INFO 2022-03-22 16:21:59,028 - Requested the transfer of: 22€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-22 16:21:59,029 - Checking the autheticity of the message
+ERROR 2022-03-22 16:21:59,030 - Failed nonce check. Operation will be aborted
+INFO 2022-03-22 16:22:49,390 - PROGRAM STARTED
+INFO 2022-03-22 16:22:49,391 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 16:22:49,391 - Established connection to main database
+INFO 2022-03-22 16:23:12,081 - Estabilished a connection with client on address: ('25.35.0.145', 61374)
+INFO 2022-03-22 16:23:12,082 - Received data, processing message
+INFO 2022-03-22 16:23:12,082 - Requested the transfer of: 22€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-22 16:23:12,082 - Checking the autheticity of the message
+ERROR 2022-03-22 16:23:12,082 - Failed hash check. Operation will be aborted
+INFO 2022-03-22 16:24:49,979 - PROGRAM STARTED
+INFO 2022-03-22 16:24:49,979 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-22 16:24:49,980 - Established connection to main database
