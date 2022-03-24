@@ -14,7 +14,7 @@ sql_search_nonce = """SELECT nonce FROM Nonces WHERE nonce=?"""
 currentDb = "database"
 connection = ""
 # HOST = "127.0.0.1"  # Localhost
-HOST = "25.35.53.183" # Gabriele - Hamachi IPv4
+# HOST = "25.35.53.183" # Gabriele - Hamachi IPv4
 PORT = 3030  # Standard PORT
 Log_Format = "%(levelname)s %(asctime)s - %(message)s"
 logging.basicConfig(filename="logfile.log",

@@ -129,3 +129,31 @@ ERROR 2022-03-22 16:23:12,082 - Failed hash check. Operation will be aborted
 INFO 2022-03-22 16:24:49,979 - PROGRAM STARTED
 INFO 2022-03-22 16:24:49,979 - Found a database in root dir. Trying to estabilish a connection..
 INFO 2022-03-22 16:24:49,980 - Established connection to main database
+INFO 2022-03-24 15:05:38,063 - PROGRAM STARTED
+WARNING 2022-03-24 15:05:38,063 - No database found in program root dir. An empty database will be created.
+WARNING 2022-03-24 15:05:38,063 - This may pose a security threat for incoming messages!
+INFO 2022-03-24 15:05:38,076 - Established connection to main database
+INFO 2022-03-24 15:05:53,963 - Estabilished a connection with client on address: ('127.0.0.1', 56595)
+INFO 2022-03-24 15:05:53,964 - Received data, processing message
+INFO 2022-03-24 15:05:53,964 - Requested the transfer of: 22€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-24 15:05:53,964 - Checking the autheticity of the message
+INFO 2022-03-24 15:05:53,979 - Registered new nonce into database.
+INFO 2022-03-24 15:05:53,980 - Message authenticity verified. The operation will be authorized
+INFO 2022-03-24 15:08:56,710 - PROGRAM STARTED
+INFO 2022-03-24 15:08:56,711 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-24 15:08:56,712 - Established connection to main database
+INFO 2022-03-24 15:09:06,063 - Estabilished a connection with client on address: ('127.0.0.1', 56603)
+INFO 2022-03-24 15:09:06,064 - Received data, processing message
+INFO 2022-03-24 15:09:06,064 - Requested the transfer of: 200€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-24 15:09:06,064 - Checking the autheticity of the message
+INFO 2022-03-24 15:09:06,082 - Registered new nonce into database.
+INFO 2022-03-24 15:09:06,083 - Message authenticity verified. The operation will be authorized
+INFO 2022-03-24 15:09:54,463 - PROGRAM STARTED
+INFO 2022-03-24 15:09:54,463 - Found a database in root dir. Trying to estabilish a connection..
+INFO 2022-03-24 15:09:54,468 - Established connection to main database
+INFO 2022-03-24 15:10:04,720 - Estabilished a connection with client on address: ('127.0.0.1', 56610)
+INFO 2022-03-24 15:10:04,720 - Received data, processing message
+INFO 2022-03-24 15:10:04,721 - Requested the transfer of: 200€ from SenderAccount: 1234+toReceiverAccount: 5678
+INFO 2022-03-24 15:10:04,721 - Checking the autheticity of the message
+INFO 2022-03-24 15:10:04,742 - Registered new nonce into database.
+INFO 2022-03-24 15:10:04,743 - Message authenticity verified. The operation will be authorized

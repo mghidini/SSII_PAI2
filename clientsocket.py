@@ -4,7 +4,7 @@ import socket
 import uuid
 import hashfunction
 
-#HOST = "127.0.0.1"
+# HOST = "127.0.0.1"
 HOST = "25.35.53.183"  # SERVER: Gabriele - Hamachi IPV4
 PORT = 3030  # The port used by the server
 
@@ -17,8 +17,8 @@ nonce = str(uuid.uuid4())
 message = sender + receiver + amount + nonce
 hashed_message = hashfunction.hash_msg(message)
 
-print(nonce)
-print(hashed_message)
+# print(nonce)
+# print(hashed_message)
 
 mydict = {
     "sender": sender,
